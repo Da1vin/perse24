@@ -23,7 +23,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - ADAPAKA VINITA
 - AMAL ANAND NAVIN https://github.com/NNComputing/persecoding
 - CHAN CHI NGAI ZEDRIC https://github.com/zedricchan/persecoding24
-- CHEN SHIH HSI
+- CHEN SHIH HSI https://github.com/Da1vin/PCTC-2023--24-R0-/tree/main
 - CHU YAOFEI https://github.com/hyperAdina/perse24yf
 - DIDUM SENILA FERNANDO
 - KARTHIKEYAN AAKARSHA KANNAN
